@@ -1,7 +1,7 @@
 print(
 - 👋 Hi, I’m @leadattic
-- 👀 I’m interested in useless python coding
-- 🌱 I’m currently learning less useless python coding
+- 👀 I’m interested in useless python coding and AHK
+- 🌱 I’m currently learning less useless python coding and getting better in AHK
 - 📫 How to reach me leadattic#3464 on discord
 <!---
 leadattic/leadattic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
