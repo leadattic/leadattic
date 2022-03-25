@@ -1,0 +1,5 @@
+- Hi, I’m @leadattic / Leadattic953788 / leadattic_ / leadattic0 / ttg leadattic_ / talande tregår leadattic
+- I’m interested in useless python coding and AHK
+- 🌱 I’m currently learning less useless python coding and getting better in AHK
+- 📫 How to reach me Talande Tregår leadattic#3464 on discord :)
+- swedish he/him
