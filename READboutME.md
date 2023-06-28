@@ -1,4 +1,0 @@
-- Hi, I’m @leadattic / Leadattic953788 / leadattic_ / leadattic0 / ttg leadattic_ / talande tregår leadattic / Axel 			  
-- I’m interested in javaScript and html
-- 📫 How to reach me realledic#3464 on discord :)
-- swedish he/him
